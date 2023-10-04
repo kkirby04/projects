@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//adding up sum of numbers
 int main (){
 
     int  userInput;
