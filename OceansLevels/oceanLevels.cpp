@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//calculating ocean levels over a certain amount of years
 int main (){
 
     const float OCEANLEVEL = 1.5f;
